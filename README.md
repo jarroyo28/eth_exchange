@@ -11,3 +11,12 @@ Marketplace that runs on the blockchain
 * Deployed the smart contracts to a blockchain
   
 * Created a client side website with Web3.js and React.js so that users can talk to the smart contracts
+
+## Technologies used
+- React.js
+- Web3.js
+- Solidity
+- Truffle
+- Ganache
+- Node
+- Mocha/Chai
